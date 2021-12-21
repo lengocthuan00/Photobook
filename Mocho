@@ -1,11 +1,11 @@
 {    
-    "title": "War for Rayuba: Shield Soundyear II",
-    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
-    "author": "Shield Generator 7",
-    "artist": "Shield Generator 7",
-    "cover": "https://i.imgur.com/MxxaE9O.png",
+    "title": "Tadaima, Okaeri",
+    "description": "Mocho photobook",
+    "author": "Mocho",
+    "artist": "Mocho",
+    "cover": "https://i.imgur.com/DTmLs8Y.jpeg",
     "chapters": {
-        "0": {
+        "1": {
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/KmFbgYO"
             },
