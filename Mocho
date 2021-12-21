@@ -9,8 +9,9 @@
       "title": "<chapter name>",
       "volume": "<volume number>",
       "groups": {
-        "group name": "/proxy/api/imgur/chapter/https://imgur.com/a/LoNjGbB/"
+        "group name": "/proxy/api/imgur/chapter/LoNjGbB/"
       },
       "last_updated": "1616368746"
     },
   }
+}
